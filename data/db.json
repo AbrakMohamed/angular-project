@@ -30,7 +30,7 @@
     {
       "id": 1,
       "name": "Pc portable",
-      "price": 5600,
+      "price": "5400",
       "checked": true
     },
     {
@@ -88,10 +88,16 @@
       "id": 12
     },
     {
-      "name": "Sidi ALI",
-      "price": "6",
-      "checked": false,
-      "id": 13
+      "id": 14,
+      "name": "Projecteur",
+      "price": "3000",
+      "checked": true
+    },
+    {
+      "name": "MSI",
+      "price": "12000",
+      "checked": true,
+      "id": 15
     }
   ]
 }
